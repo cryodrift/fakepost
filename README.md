@@ -1,14 +1,4 @@
-# chrisg/fakepost
-
-This package was extracted from the monorepo (fakepost) preserving history.
-
-Requires:
-- chrisg/fw (^1.0)
-- chrisg/htmlload-skeleton (^1.0)
-
-# Fakepost Middleware Documentation
-
-This document provides an overview of how the Fakepost middleware works in the application.
+# cryodrift/fakepost
 
 ## Overview
 
